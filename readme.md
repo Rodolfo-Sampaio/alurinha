@@ -43,6 +43,6 @@ Veja nosso site adaptável em 🚩[Alurinha](https://alurinha-vert.vercel.app/) 
 [Yuri Padilha](https://www.linkedin.com/in/yuri-padilha/)
 <br>
 <br>
-### "Salve, aventureiro do código! 👋 Valeu pela passada no meu GitHub. Se curtiu, que tal dar um [`Follow`](https://github.com/Rodolfo-Sampaio)? Estamos na mesma sintonia. Até mais, e que os códigos estejam sempre ao seu lado! 😊💻"
+#### Obrigado por visitar meu Git. Se você der um [`Follow`](https://github.com/Rodolfo-Sampaio), ficarei feliz em retribuir!🚀💻
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=100&section=footer" alt="Waving Capsule Render">
